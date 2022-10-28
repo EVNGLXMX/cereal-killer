@@ -16,3 +16,6 @@ shape = SubResource( 1 )
 position = Vector2( -5.04871e-29, -2.11758e-22 )
 scale = Vector2( 0.0769231, 0.0675 )
 texture = ExtResource( 1 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
